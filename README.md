@@ -1,4 +1,5 @@
 # ICE2-MysteryNumber
+Daniel Prazeres ST10454581
 
 This project was hell on earth due to two major bugs that impeded all progress. The first was a type mismatch bug that occurred when relaying the
 text inputs value to the checking guess function, the second was an inability to apply a value from inside a function to one outside of it. 
