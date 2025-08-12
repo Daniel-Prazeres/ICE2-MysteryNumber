@@ -30,3 +30,5 @@ the App() functions return statement, the assignment of "variable = setDifferent
 attribute in the return statement, the compiler throws a fit stating that either there is a type mismatch or that constants cannot have their 
 data changed. I managed to fix this by treating the setVariable portion of the useState as a function rather than a variable. But only within
 the refrenced function as typing it out in app's return statement caused errors.
+
+<img width="1915" height="773" alt="image" src="https://github.com/user-attachments/assets/6de03785-48a2-45c8-b705-63992f2d5a96" />
